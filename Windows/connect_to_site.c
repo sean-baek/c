@@ -13,7 +13,7 @@ int main(void)
 	char input;
 	
 	textcolor(11);
-	printf("\t\t\tMade by Black Hat Coder(BHC)\n\n");
+	printf("\t\t\tsean\n\n");
 	
 	textcolor(7);
 	printf("1. Google: g, 1 \t8. Facebook: f, 8\n2. Naver: n, 2 \t\t9. Twitter: t, 9 \n3. Yahoo: y, 3 \t\t10. instagram: i, A \n4. Yahoo Japen: j, 4 \t11. Wikipedia: w, B \n5. Bing: b, 5 \t\t12. Youtube: y, C\n6. Baidu: u, 6 \n7. Daum: d, 7");
