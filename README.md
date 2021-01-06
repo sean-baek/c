@@ -2,6 +2,7 @@
 ## Linux 폴더에는 Linux에서만 컴파일 되는 코드들이 있습니다.
 ## Windows 폴더에는 Windows에서만 컴파일 되는 코드들이 있습니다.
 ## Public 폴더에는 Linux와 windows에 상관없이 동일하게 동작하는 코드들이 있습니다.
-### 추가로 Public 폴더에는 Baekjoon 폴더와 coding_dojang 폴더가 있습니다.
-### Baekjoon 폴더에는 제가 푼 Baekjoon 문제들의 정답 코드가 담겨있습니다.
+## toy_project 폴더에는 제가 공부하면서 따로 직접 만들어 본 것들이 담겨있습니다.
+## Baekjoon 폴더에는 제가 푼 Baekjoon 무네들의 정답 코드가 담겨있습니다.
+### 추가로 Public 폴더에는 coding_dojang 폴더가 있습니다.
 ### coding_dojang 폴더에는 코딩 도장을 보며 공부하다가 직접 타이핑하며 해본 코드들이 들어있습니다.
